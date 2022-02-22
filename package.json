@@ -2,6 +2,7 @@
   "name": "tesla-clone",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://mangeldark.github.io",
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
     "@testing-library/jest-dom": "^4.2.4",
